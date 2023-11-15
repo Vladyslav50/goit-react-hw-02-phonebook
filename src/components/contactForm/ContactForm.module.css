@@ -1,0 +1,22 @@
+.contact_form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  gap: 10px;
+  width: 250px;
+  border-radius: 5px;
+  border: 1px solid black;
+  background-color: rgb(204, 204, 204);
+}
+
+.add_btn {
+  width: 100px;
+  border-radius: 5px;
+  border: 1px solid black;
+  margin: 10px auto;
+}
+
+.input_names {
+  display: block;
+}
